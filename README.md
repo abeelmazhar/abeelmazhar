@@ -1,12 +1,12 @@
-![logo](https://github.com/Husnainaqeel384/Husnainaqeel384/blob/main/Poster.jpg)
-<h1 align="center">Hi 👋, I'm Muhammad Husnain Aqeel</h1>
+![logo](https://github.com/abeelmazhar/abeelmazhar/blob/main/poster.jpg)
+<h1 align="center">Hi 👋, I'm Muhammad Abeel Mazhar</h1>
 <h3 align="center">A passionate full MERN stack developer from Pakistan</h3>
 <img align="right"  width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnainaqeel384&label=Profile%20views&color=0e75b6&style=flat" alt="husnainaqeel384" /> </p>
 
 - 🌱 I’m currently learning *MERN*
 
-- 📫 How to reach me *husnainaqeel384@gmail.com*
+- 📫 How to reach me *abeelmazhar4@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
