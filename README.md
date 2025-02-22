@@ -1,7 +1,7 @@
-![logo](https://www.pinterest.com/pin/29977153764161942/)
+
 <h1 align="center">Hi 👋, I'm Abeel Mazhar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img src="https://www.pinterest.com/pin/350647521008169739/" alt="abeelmazhar" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeelmazhar&label=Profile%20views&color=0e75b6&style=flat" alt="abeelmazhar" /> </p>
 
 - 🔭 I’m currently working on **forMedia**
