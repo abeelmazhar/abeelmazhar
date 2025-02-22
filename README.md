@@ -1,4 +1,4 @@
-![logo](https://github.com/abeelmazhar/abeelmazhar/blob/main/poster.jpg)
+![logo](https://www.pinterest.com/pin/29977153764161942/)
 <h1 align="center">Hi 👋, I'm Abeel Mazhar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
