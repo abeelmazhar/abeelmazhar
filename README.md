@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/736x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg" alt="abeelmazhar" /> </p>
+<p align="center"><img src="https://i.pinimg.com/736x/c9/88/0a/c9880a8abf25f389be7154e8fee18270.jpg" alt="abeelmazhar" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abeel Mazhar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
